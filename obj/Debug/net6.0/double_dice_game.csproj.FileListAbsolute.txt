@@ -1,0 +1,15 @@
+E:\c# projects\double_dice_game\obj\Debug\net6.0\double_dice_game.csproj.AssemblyReference.cache
+E:\c# projects\double_dice_game\obj\Debug\net6.0\double_dice_game.GeneratedMSBuildEditorConfig.editorconfig
+E:\c# projects\double_dice_game\obj\Debug\net6.0\double_dice_game.AssemblyInfoInputs.cache
+E:\c# projects\double_dice_game\obj\Debug\net6.0\double_dice_game.AssemblyInfo.cs
+E:\c# projects\double_dice_game\obj\Debug\net6.0\double_dice_game.csproj.CoreCompileInputs.cache
+E:\c# projects\double_dice_game\bin\Debug\net6.0\double_dice_game.exe
+E:\c# projects\double_dice_game\bin\Debug\net6.0\double_dice_game.deps.json
+E:\c# projects\double_dice_game\bin\Debug\net6.0\double_dice_game.runtimeconfig.json
+E:\c# projects\double_dice_game\bin\Debug\net6.0\double_dice_game.dll
+E:\c# projects\double_dice_game\bin\Debug\net6.0\double_dice_game.pdb
+E:\c# projects\double_dice_game\obj\Debug\net6.0\double_dice_game.dll
+E:\c# projects\double_dice_game\obj\Debug\net6.0\refint\double_dice_game.dll
+E:\c# projects\double_dice_game\obj\Debug\net6.0\double_dice_game.pdb
+E:\c# projects\double_dice_game\obj\Debug\net6.0\double_dice_game.genruntimeconfig.cache
+E:\c# projects\double_dice_game\obj\Debug\net6.0\ref\double_dice_game.dll
